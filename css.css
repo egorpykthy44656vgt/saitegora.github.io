@@ -1,0 +1,17 @@
+body{
+    background: url("1616528640_11-p-fon-dlya-chata-11.jpg");
+}
+ div{
+    border: 5px solid black;
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+    margin-top: 10px;
+    margin-left: 15px;
+ }
+ .green{
+    background-color: green;
+ }
+.yellow{
+    background-color: yellow;
+}
